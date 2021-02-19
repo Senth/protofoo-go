@@ -1,4 +1,4 @@
-module github.com/Senth/protofoo/go
+module github.com/Senth/protofoo-go
 
 go 1.15
 
